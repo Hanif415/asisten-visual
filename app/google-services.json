@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996032229581",
+    "project_id": "asisten-visual",
+    "storage_bucket": "asisten-visual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996032229581:android:382859b1b8dfa53e9eb984",
+        "android_client_info": {
+          "package_name": "com.example.asistenvisual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkFIDIQeyPkOimBq8e_ioQGkmROe5caA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
